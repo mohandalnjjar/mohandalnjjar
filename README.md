@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile development
 - 💞️ I’m looking to collaborate on ...
 - 📫 📫 You can Reach me on whatsapp => 01205771331 & 01555569804
-- ⚡ Fun fact: Crazy developer
+- ⚡ Fun fact: crazy developer
 
 <!---
 mohandalnjjar/mohandalnjjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
