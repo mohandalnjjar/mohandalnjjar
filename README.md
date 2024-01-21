@@ -1,6 +1,5 @@
 - 👋 Hi, I’m mohand mohamed alnjjar
 - 👀 I’m interested in mobile development
-- 💞️ I’m looking to collaborate on ...
 - 📫 📫 You can Reach me on whatsapp => 01205771331 & 01555569804
 - ⚡ Fun fact: crazy developer
 
