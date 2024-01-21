@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mohand Mohamed Alnjjar
-- 👀 I’m interested in Mobile development
+- 👋 Hi, I’m mohand mohamed alnjjar
+- 👀 I’m interested in mobile development
 - 💞️ I’m looking to collaborate on ...
-- 📫 whatsApp 01205771331
-- ⚡ Fun fact: Cars Lover
+- 📫 📫 You can Reach me on whatsapp => 01205771331 & 01555569804
+- ⚡ Fun fact: Crazy developer
 
 <!---
 mohandalnjjar/mohandalnjjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
