@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mohand you can call me HnoOd
 - 👀 I’m interested in different platform development such Mobile, Desktop, Ios, Macos
-- 📫 📫 You can Reach me on what's app: 01555569804
+- 📫 📫 what'sApp: 01555569804
 - ⚡ Fun fact: crazy developer
 
 
