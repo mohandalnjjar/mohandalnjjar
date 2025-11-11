@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mohand you can call me HnoOd
-- 👀 I’m interested in different platform development such Mobile, Desktop, Ios, Macos
+- 👀 I’m interested in mobile app development (FLUTTER(dart) & JETPACK COMPOSE(kotlin))
 - 📫 📫 what'sApp: 01555569804
 - ⚡ Fun fact: crazy developer
 
