@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mohand you can call me HnoOd
-- 👀 I’m interested in mobile app development (FLUTTER(dart) & JETPACK COMPOSE(kotlin))
+- 👀 I’m interested in mobile app development (FLUTTER dart & JETPACK COMPOSE kotlin)
 - 📫 📫 what'sApp: 01555569804
 - ⚡ Fun fact: crazy developer
 
